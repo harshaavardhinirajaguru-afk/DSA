@@ -1,21 +1,21 @@
-# Student Marks Analyzer
+ Student Marks Analyzer
 
-## 📌 Overview
+ Overview
 Student Marks Analyzer is a simple C++ mini project that demonstrates the use of arrays, sorting algorithms, and basic statistical calculations.
 
-## ✨ Features
+ Features
 - Input marks of N students
 - Store marks using arrays
 - Sort marks in descending order using Bubble Sort
 - Display the Top 3 highest marks
 - Calculate and display the average score
 
-## 🛠️ Technologies Used
+ Technologies Used
 - C++
 - Arrays
 - Bubble Sort
 
-## 📂 Project Structure
+ Project Structure
 
 ```
 Student-Marks-Analyzer/
@@ -23,23 +23,20 @@ Student-Marks-Analyzer/
 └── README.md
 ```
 
-## ▶️ How to Run
+ How to Run
 
 Compile the program:
 
-```bash
+bash
 g++ main.cpp -o analyzer
-```
+
 
 Run the executable:
-
-```bash
+bash
 ./analyzer
-```
 
-## 📥 Sample Input
+Sample Input
 
-```
 Enter the number of students: 5
 Enter the marks:
 78
@@ -47,25 +44,23 @@ Enter the marks:
 65
 88
 95
-```
 
-## 📤 Sample Output
+Sample Output
 
-```
 Top 3 Marks:
 95
 92
 88
 
 Average Score = 83.6
-```
 
-## 📚 Concepts Used
+
+ Concepts Used
 - Arrays
 - Bubble Sort
 - Loops
 - Conditional Statements
 - Basic Mathematics
 
-## 👩‍💻 Author
+Author
 Harshaa Vardhini R
