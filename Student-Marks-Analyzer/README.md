@@ -17,11 +17,11 @@ Student Marks Analyzer is a simple C++ mini project that demonstrates the use of
 
  Project Structure
 
-```
+
 Student-Marks-Analyzer/
 ├── main.cpp
 └── README.md
-```
+
 
  How to Run
 
