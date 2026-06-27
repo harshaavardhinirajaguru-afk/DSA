@@ -1,24 +1,24 @@
-# Undo-Redo Text Editor Simulation
+Undo-Redo Text Editor Simulation
 
-## Description
+Description
 This project simulates the Undo and Redo functionality of a text editor using Stack Data Structure in C++.
 
-## Features
+Features
 - Type text
 - Undo last action
 - Redo last undone action
 - Display current text
 
-## Data Structure Used
+ Data Structure Used
 - Stack (STL stack)
 
-## Concepts Used
+ Concepts Used
 - Stack
 - Functions
 - Strings
 - Menu Driven Program
 
-## How to Run
+ How to Run
 
 Compile the program
 
@@ -28,7 +28,7 @@ Run
 
 ./editor
 
-## Sample Output
+ Sample Output
 
 ===== Undo-Redo Text Editor =====
 1. Type Text
