@@ -1,17 +1,17 @@
-# Contact Directory Using Binary Search Tree (BST)
+Contact Directory Using Binary Search Tree (BST)
 
-## Overview
+ Overview
 
 This project is a Contact Directory implemented using a Binary Search Tree (BST) in C++. It allows users to insert, search, delete, and display contacts. Contacts are displayed in alphabetical order using inorder traversal.
 
-## Features
+ Features
 
 * Insert a contact
 * Search for a contact
 * Delete a contact
 * Display contacts alphabetically
 
-## Concepts Used
+Concepts Used
 
 * Binary Search Tree (BST)
 * Recursion
@@ -19,12 +19,12 @@ This project is a Contact Directory implemented using a Binary Search Tree (BST)
 * Dynamic Memory Allocation
 * Structures
 
-## Files
+ Files
 
 * Contact_Directory_BST.cpp
 * README.md
 
-## How to Run
+How to Run
 
 Compile the program using a C++ compiler.
 
@@ -40,6 +40,6 @@ Run the program:
 
 (On Windows, run `ContactDirectory.exe`.)
 
-## Author
+ Author
 
 Harshaa Vardhini Rajaguru
